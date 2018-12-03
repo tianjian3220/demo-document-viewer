@@ -1,5 +1,7 @@
 {
   "name": "documentViewerApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
